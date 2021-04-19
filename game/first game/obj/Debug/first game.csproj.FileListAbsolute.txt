@@ -1,0 +1,10 @@
+C:\Users\rrass\source\repos\first game\first game\bin\Debug\first game.exe.config
+C:\Users\rrass\source\repos\first game\first game\bin\Debug\first game.exe
+C:\Users\rrass\source\repos\first game\first game\bin\Debug\first game.pdb
+C:\Users\rrass\source\repos\first game\first game\obj\Debug\first game.csprojAssemblyReference.cache
+C:\Users\rrass\source\repos\first game\first game\obj\Debug\first_game.Form1.resources
+C:\Users\rrass\source\repos\first game\first game\obj\Debug\first_game.Properties.Resources.resources
+C:\Users\rrass\source\repos\first game\first game\obj\Debug\first game.csproj.GenerateResource.cache
+C:\Users\rrass\source\repos\first game\first game\obj\Debug\first game.csproj.CoreCompileInputs.cache
+C:\Users\rrass\source\repos\first game\first game\obj\Debug\first game.exe
+C:\Users\rrass\source\repos\first game\first game\obj\Debug\first game.pdb
